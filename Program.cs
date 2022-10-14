@@ -46,6 +46,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 if (app.Environment.IsDevelopment()) {
 app.UseHttpsRedirection();
 }

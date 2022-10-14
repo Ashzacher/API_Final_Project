@@ -1,11 +1,88 @@
 {
   "Version": 1,
-  "Hash": "ZsmjoMq/gEHgl6n1fo9lOlk/1FZ6ZGcDbTvHrZgjqcU=",
+  "Hash": "k+UWHbcOMnLjVhZuttuqzsPZPBGAK5UG/WpApAPV/Gw=",
   "Source": "Catalog",
   "BasePath": "_content/Catalog",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Catalog\\wwwroot",
+      "Source": "Catalog",
+      "ContentRoot": "C:\\Users\\asher\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\asher\\Catalog\\wwwroot\\css\\js\\index.html",
+      "SourceId": "Catalog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asher\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "RelativePath": "css/js/index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\js\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\asher\\Catalog\\wwwroot\\css\\site.css",
+      "SourceId": "Catalog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asher\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\asher\\Catalog\\wwwroot\\index.html",
+      "SourceId": "Catalog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asher\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\asher\\Catalog\\wwwroot\\js\\site.js",
+      "SourceId": "Catalog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\asher\\Catalog\\wwwroot\\",
+      "BasePath": "_content/Catalog",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
 }

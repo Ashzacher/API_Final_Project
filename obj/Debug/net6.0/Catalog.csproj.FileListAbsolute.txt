@@ -44,3 +44,4 @@ C:\Users\asher\Catalog\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
 C:\Users\asher\Catalog\bin\Debug\net6.0\HealthChecks.MongoDb.dll
 C:\Users\asher\Catalog\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\asher\Catalog\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\asher\Catalog\bin\Debug\net6.0\Catalog.staticwebassets.runtime.json
